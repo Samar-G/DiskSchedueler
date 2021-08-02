@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611793391 source:e:\bioninformatics\year3,sem1\algorithms\assignments\assignment2\problem1\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
